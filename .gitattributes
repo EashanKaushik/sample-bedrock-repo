@@ -1,3 +1,0 @@
-# .gitattributes
-module_1/fine_tune.ipynb -text
-fine_tune/* -text
